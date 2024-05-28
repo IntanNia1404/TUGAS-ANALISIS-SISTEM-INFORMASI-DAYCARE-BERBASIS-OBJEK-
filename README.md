@@ -5,3 +5,4 @@ Pengelolaan data anak, orang tua/wali, staf, jadwal, kehadiran, dan laporan adal
 Orang Tua/Wali: Mereka melakukan interaksi dengan sistem untuk mengakses segala informasi tentang anak-anak mereka, melihat jadwal kegiatan, dan memantau kehadiran anak-anak.
 Staf: Mereka berinteraksi dengan sistem untuk mengelola data anak, mengatur jadwal, dan mengupdate informasi kehadiran.
 Pengelola Daycare / Administrasi: Mereka berinteraksi dengan sistem untuk mengelola data staf, mengatur jadwal, dan mengupdate informasi kehadiran.
+# Use Case
