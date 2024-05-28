@@ -6,3 +6,4 @@ Pengelolaan data anak, orang tua/wali, staf, jadwal, kehadiran, dan laporan adal
 Staf: Mereka berinteraksi dengan sistem untuk mengelola data anak, mengatur jadwal, dan mengupdate informasi kehadiran.
 Pengelola Daycare / Administrasi: Mereka berinteraksi dengan sistem untuk mengelola data staf, mengatur jadwal, dan mengupdate informasi kehadiran.<br>
 # Use Case
+![Use Case APBO](https://github.com/IntanNia1404/TUGAS-ANALISIS-SISTEM-INFORMASI-DAYCARE-BERBASIS-OBJEK-/assets/145907542/93e81c21-2856-442e-a895-64722eba6003)
